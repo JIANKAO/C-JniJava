@@ -1,0 +1,4 @@
+﻿  body.cpp
+body.obj : error LNK2019: 无法解析的外部符号 __imp__JNI_CreateJavaVM@12，函数 _main 中引用了该符号
+C:\Program Files\Java\jdk-22\lib\jvm.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+L:\JIANKAO_C++\代码\E临时测试\C++调用Java\C++JniJava\Debug\C++JniJava.exe : fatal error LNK1120: 1 个无法解析的外部命令
